@@ -1,0 +1,21 @@
+{
+  "name": "pruebaasync",
+  "version": "1.0.0",
+  "description": "Landing Page para probar y documentar ocurrencias o ejercicios de JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndPostDev/PruebaAsync.git"
+  },
+  "author": "Andres Apostol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndPostDev/PruebaAsync/issues"
+  },
+  "homepage": "https://github.com/AndPostDev/PruebaAsync#readme",
+  "type": "module"
+}
+
